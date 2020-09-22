@@ -1,3 +1,6 @@
+//IsamDavid17
+//http://codeforces.com/problemset/problem/200/B
+//implementation
 #include <bits/stdc++.h>
 using namespace std;
 
