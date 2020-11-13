@@ -9,7 +9,7 @@ int main(){
     cin>>palabras[i];  
     ++i;
   }
- 
+
   for(int i=0;i<n;++i){
     if(palabras[i].size()>10){
     aux=palabras[i].size()-1;
